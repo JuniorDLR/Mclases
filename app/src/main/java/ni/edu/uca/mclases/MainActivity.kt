@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 val num1=1
+        val junior="Hola"
 
     }
 }
